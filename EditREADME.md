@@ -15,11 +15,11 @@
 
 | 编号 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
-| AI01 | 机器之心 | 国内最权威 AI 媒体之一 | {{latest_content}} | [订阅地址](https://www.jiqizhixin.com/rss) |
-| AI02 | 量子位 | AI 领域头部媒体 | {{latest_content}} | [订阅地址](http://rsshub:1200/qbitai/category/resource) |
-| AI03 | 36氪 | 创投+科技头部媒体 | {{latest_content}} | [订阅地址](http://rsshub:1200/36kr/information/web_news) |
+| AI01 | 雷锋网·AI科技评论 | 雷锋网人工智能频道，AI产业深度报道 | {{latest_content}} | [订阅地址](http://rsshub:1200/leiphone/category/ai) |
+| AI02 | 量子位 | 国内AI头部媒体，每日AI资讯 | {{latest_content}} | [订阅地址](http://rsshub:1200/qbitai/category/资讯) |
+| AI03 | 36氪 | 创投+科技头部媒体，AI内容占比高 | {{latest_content}} | [订阅地址](http://rsshub:1200/36kr/news) |
 | AI04 | 少数派 | 效率工具+AI 应用 | {{latest_content}} | [订阅地址](https://sspai.com/feed) |
-| AI05 | 极客公园 | 科技深度报道 | {{latest_content}} | [订阅地址](http://rsshub:1200/geekpark/breakingnews) |
+| AI05 | 极客公园·AI新浪潮 | 极客公园AI专题栏目 | {{latest_content}} | [订阅地址](http://rsshub:1200/geekpark/304) |
 | AI06 | Hacker News | 全球技术社区（英文） | {{latest_content}} | [订阅地址](https://hnrss.org/frontpage) |
 | AI07 | IT之家 AI | 科技快讯·AI 标签 | {{latest_content}} | [订阅地址](http://rsshub:1200/ithome/tag/AI) |
 | AI08 | InfoQ 中文 | 技术深度内容 | {{latest_content}} | [订阅地址](http://rsshub:1200/infoq/recommend) |
