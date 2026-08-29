@@ -20,6 +20,6 @@
 | AI03 | 36氪 | 创投+科技头部媒体，AI内容占比高 | {{latest_content}} | [订阅地址](http://rsshub:1200/36kr/news) |
 | AI04 | 少数派 | 效率工具+AI 应用 | {{latest_content}} | [订阅地址](https://sspai.com/feed) |
 | AI05 | 极客公园·AI新浪潮 | 极客公园AI专题栏目 | {{latest_content}} | [订阅地址](http://rsshub:1200/geekpark/304) |
-| AI06 | Hacker News | 全球技术社区（英文） | {{latest_content}} | [订阅地址](https://hnrss.org/frontpage) |
+| AI06 | 钛媒体 | 科技产业媒体，中文AI/科技资讯 | {{latest_content}} | [订阅地址](http://rsshub:1200/tmtpost/new) |
 | AI07 | IT之家 AI | 科技快讯·AI 标签 | {{latest_content}} | [订阅地址](http://rsshub:1200/ithome/tag/AI) |
 | AI08 | InfoQ 中文 | 技术深度内容 | {{latest_content}} | [订阅地址](http://rsshub:1200/infoq/recommend) |
