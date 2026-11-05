@@ -1,13 +1,13 @@
-# 《嘎!RSS》🐣 AI 资讯订阅（8 个源 · 2026-11-04 10:52:02）
+# 《嘎!RSS》🐣 AI 资讯订阅（8 个源 · 2026-11-05 11:00:30）
 
 > 基于 [garss](https://github.com/zhaoolee/garss) 的私人 AI 资讯简报，由 GitHub Actions 每天自动抓取下方 RSS 源并发送到你的邮箱。
 
 ## 今日值得看 🕶️
 
 邮件内容区开始>
-<h2>新蒸熟1个小蛋糕🍰(文章) 生产时间 2026-11-04 10:52:02 保质期24小时</h2>
+<h2>新蒸熟14个小蛋糕🍰(文章) 生产时间 2026-11-05 11:00:30 保质期24小时</h2>
 
-<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://sspai.com/post/118402' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等 | 第1篇</a></div>
+<div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.qbitai.com/2026/11/507696.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 基于本体+知识+Harness+Datat Agent的智能体完整落地链路！ | 第1篇</a></div><div style='line-height:3;' ><a href='https://www.qbitai.com/2026/11/507707.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了 | 第2篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.qbitai.com/2026/11/507697.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ Linux内核被挖出948个漏洞！OpenAI花120万美元找到的 | 第3篇</a></div><div style='line-height:3;' ><a href='https://www.qbitai.com/2026/11/507688.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》 | 第4篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.qbitai.com/2026/11/507675.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 从3D生成到世界模型，这家AI公司想和年轻人一起定义问题 | 第5篇</a></div><div style='line-height:3;' ><a href='https://sspai.com/post/118498' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等 | 第6篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.tmtpost.com/8194260.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ AI时代的云计算，少数派繁荣 | 第7篇</a></div><div style='line-height:3;' ><a href='https://www.tmtpost.com/8194145.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 日赚2300万，瑞幸咖啡的好日子又回来了 | 第8篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.tmtpost.com/8193763.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 韩国的“自主 AI”，绕不开中国模型 | 第9篇</a></div><div style='line-height:3;' ><a href='https://www.tmtpost.com/8194179.html' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ Edge AI Daily 早报（11月5日） | 第10篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码 | 第11篇</a></div><div style='line-height:3;' ><a href='https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京 | 第12篇</a></div><div style='line-height:3;background-color:#FAF6EA;' ><a href='https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ 混元 Hy4 实测：腾讯的产品基因，模型继承了几分？ | 第13篇</a></div><div style='line-height:3;' ><a href='https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2' style="line-height:2;text-decoration:none;display:block;color:#584D49;">🌈 ‣ Cloudflare 通过优化一致性哈希节省了 100 TB 内存 | 第14篇</a></div>
 
 <邮件内容区结束
 
@@ -15,11 +15,11 @@
 
 | 编号 | 名称 | 描述 | RSS  |  最新内容 |
 | --- | --- | --- | --- |  --- |
-| AI01 | 雷锋网·AI科技评论 | 雷锋网人工智能频道，AI产业深度报道 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/leiphone/category/ai) |
-| AI02 | 量子位 | 国内AI头部媒体，每日AI资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/qbitai/category/资讯) |
+| AI01 | 雷锋网·AI科技评论 | 雷锋网人工智能频道，AI产业深度报道 | [‣ 0.016% 的 Astra 微创手术，治好了 Qwen 的 3 万 Token 死循环 \| 2026-11-04](https://www.leiphone.com/category/ai/0F072La1etrUN0Tr.html)<br/>[‣ 榜单第一，市值暴跌！Gemini 4 Carbon「速成」背后，谷歌一场豪赌 \| 2026-11-04](https://www.leiphone.com/category/yanxishe/7uvYEZBsCWcPvhw3.html) | [订阅地址](http://rsshub:1200/leiphone/category/ai) |
+| AI02 | 量子位 | 国内AI头部媒体，每日AI资讯 | [‣ 基于本体+知识+Harness+Datat Agent的智能体完整落地链路！ 🌈 2026-11-05](https://www.qbitai.com/2026/11/507696.html)<br/>[‣ GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了 🌈 2026-11-05](https://www.qbitai.com/2026/11/507707.html) | [订阅地址](http://rsshub:1200/qbitai/category/资讯) |
 | AI03 | 36氪 | 创投+科技头部媒体，AI内容占比高 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/36kr/news) |
-| AI04 | 少数派 | 效率工具+AI 应用 | [‣ 派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等 🌈 2026-11-04](https://sspai.com/post/118402)<br/>[‣ 一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验 🌈 2026-11-04](https://sspai.com/post/118263) | [订阅地址](https://sspai.com/feed) |
-| AI05 | 极客公园·AI新浪潮 | 极客公园AI专题栏目 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/geekpark/304) |
-| AI06 | 钛媒体 | 科技产业媒体，中文AI/科技资讯 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/tmtpost/new) |
+| AI04 | 少数派 | 效率工具+AI 应用 | [‣ 派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等 🌈 2026-11-05](https://sspai.com/post/118498)<br/>[‣ 你不知道的客户端开发：AI 时代下的选型、原生与借力 🌈 2026-11-05](https://sspai.com/post/117713) | [订阅地址](https://sspai.com/feed) |
+| AI05 | 极客公园·AI新浪潮 | 极客公园AI专题栏目 | [‣ 拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」 \| 2026-11-03](https://geekpark.net/news/373424)<br/>[‣ 心言巴布「Bubbo 1」：一台机器人，如何成为家人 \| 2026-11-03](https://geekpark.net/news/373399) | [订阅地址](http://rsshub:1200/geekpark/304) |
+| AI06 | 钛媒体 | 科技产业媒体，中文AI/科技资讯 | [‣ AI时代的云计算，少数派繁荣 🌈 2026-11-05](https://www.tmtpost.com/8194260.html)<br/>[‣ 日赚2300万，瑞幸咖啡的好日子又回来了 🌈 2026-11-05](https://www.tmtpost.com/8194145.html) | [订阅地址](http://rsshub:1200/tmtpost/new) |
 | AI07 | IT之家 AI | 科技快讯·AI 标签 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/ithome/tag/AI) |
-| AI08 | InfoQ 中文 | 技术深度内容 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://rsshub:1200) | [订阅地址](http://rsshub:1200/infoq/recommend) |
+| AI08 | InfoQ 中文 | 技术深度内容 | [‣ 谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码 🌈 2026-11-05](https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO)<br/>[‣ AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京 🌈 2026-11-05](https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle) | [订阅地址](http://rsshub:1200/infoq/recommend) |
